@@ -64,7 +64,7 @@ Before we start writing our own CSS rules, we'll need to create a new `.css` sty
 There are a couple other ways to write CSS for your HTML doc such as:
 >
 1. Inline CSS with your HTML element
-1. Adding CSS in the <head> element of your HTML doc
+1. Adding CSS in the `<head>` element of your HTML doc
 >
 We won't cover how to do this because both of the ways of writing CSS above, in the majority of cases, are bad practice. Unless, you're creating a small project or something that you're just testing and planning to throw away later, writing CSS using the methods above leads to messy, hard-to-maintain CSS.
 
