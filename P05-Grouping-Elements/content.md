@@ -19,7 +19,7 @@ There are a number of additional tags that allow us to group related HTML conten
 
 The `<div>` tag is used to group other HTML content together. The `<div>` element doesn't add or change the content of your HTML. Instead, its main purpose is to provide an easy way to target and each group.
 
-## Creating a <div>
+## Creating a div
 
 To create a new `<div>`, we simply surround groups of HTML elements with an opening and closing `<div>` tag.
 

@@ -85,7 +85,7 @@ Next, we'll need to link our new stylesheet with our existing HTML document. Onl
 
 > [action]
 >
-We can link `style.css` to `index.html` by adding the following line to the <head> of our HTML doc:
+We can link `style.css` to `index.html` by adding the following line to the `<head>` of our HTML doc:
 >
 ```
 <head>
