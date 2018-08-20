@@ -1056,6 +1056,10 @@ In `style.css`, you should have added the following CSS rules:
   margin: 25px 0 10px;
   width: 75px;
 }
+>
+h3 {
+  text-align: center;
+}
 ```
 
 Wow, that was quite a bit of code you just implemented. Nice job, you're starting to get the hang of this. A little more practice and you'll be able to take on whatever design you want to create on your own.
