@@ -534,7 +534,7 @@ The 3 different ways you can align your content within a row are as follows:
 
 ### align-items-center
 
-`.align-items-start` aligns your columns vertically towards the center of your row.
+`.align-items-center` aligns your columns vertically towards the center of your row.
 
 ![Align Items Center](assets/align-items-center.png)
 
